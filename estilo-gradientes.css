@@ -1,0 +1,128 @@
+body{
+    margin:0%;
+   
+}
+
+div{
+    margin: 0px 0 1px 0;
+    border: 1px solid black;
+}
+
+.back1{
+    height:100px;
+    background:linear-gradient(to top, purple, blue, red, yellow);
+}
+.back2{
+    height:100px;
+    background:radial-gradient(red, yellow, green);
+}
+.back3{
+    height:100px;
+    background:linear-gradient(to bottom,blue, rgb(255, 238, 0), rgb(51, 255, 0));
+}
+.back4{
+    height:100px;
+    background:radial-gradient(red, green, black);
+}
+.back5{
+    height:100px;
+    background: repeating-radial-gradient( red, yellow, black);
+}
+.back6{
+    height:100px;
+    background:radial-gradient(blue, yellow, black);
+}
+.back7{
+    height:100px;
+    background:linear-gradient(to left, green, blue, red, black);
+}
+.back8{
+    height:100px;
+     background: repeating-radial-gradient(green, rgb(174, 65, 184), yellow); 
+}
+.img9{
+    height:600px;
+    
+    background-image:url(imagens/dog3.png); 
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.img10{
+
+    height: 600px;
+    
+    background-image:url(imagens/dog1.jfif); 
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+
+}
+.img11{
+
+    height: 600px;
+    
+    background-image:url(imagens/dog2.jfif); 
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+
+}
+.img12{
+
+    height: 600px;
+    
+    background-image:url(imagens/dog4.jfif); 
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+
+}
+.img13{
+
+    height: 600px;
+    
+    background-image:url(imagens/dog5.jfif); 
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+
+}
+.img14{
+
+    height: 600px;
+    
+    background-image:url(imagens/gif1.gif); 
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+
+}
+.img15{
+
+    height: 600px;
+    
+    background-image:url(imagens/gif2.gif); 
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+
+}
+.img16{
+
+    height: 600px;
+    
+    background-image:url(imagens/gif3.gif); 
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+
+}
